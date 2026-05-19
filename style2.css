@@ -1,0 +1,23 @@
+table{
+    border-collapse: collapse;
+    width: 25%;
+
+    background-color: yellow;
+}
+
+th, td {
+    border-collapse: collapse;
+    width: 25%;
+
+    background-color: yellow;
+}
+
+p, li {
+    color: blue;
+}
+
+
+th:hover, td:hover {
+    background-color: aqua;
+}
+
